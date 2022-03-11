@@ -1,0 +1,53 @@
+i {
+  display: inline !important;
+  color: rgb(25, 92, 25);
+  margin-right: 10px;
+}
+
+h2 {
+  color: rgb(205 111 47);
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: dimgrey;
+}
+
+.contacts {
+  display: flex;
+  justify-content: space-around;
+}
+
+span.education {
+  color: rgb(140, 105, 185);
+}
+
+span.years {
+  color: rgb(228 175 93);
+}
+
+div.education {
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  margin-left: 20px;
+}
+
+.skills {
+  margin-bottom: 15px;
+}
+
+@media (max-width: 700px) {
+  .contacts {
+    display: block;
+  }
+  .contacts__span {
+    display: block;
+    margin-bottom: 15px;
+  }
+}

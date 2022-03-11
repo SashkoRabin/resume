@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background: rgb(43 43 43);
+  font-family: 'Fira Code', monospace;
+  color: rgb(142 159 173);
+}
+
+.App {
+  width: 75%;
+  margin: 0 auto;
+}
