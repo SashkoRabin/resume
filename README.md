@@ -1,6 +1,6 @@
 ## Author: Merkulov Alexandr
 
-## GH Pages: [url]
+## GH Pages: [https://sashkorabin.github.io/resume/]
 
 ## Available Scripts
 
